@@ -1,6 +1,13 @@
 # 👋 ¡Hola! Soy Jorge Sanz
+
+🎮 Cofundador y Director del estudio [Fantory Games]  
 🎯 Estudiante en 42 Málaga | Desarrollador C# / C++ / Node.js  
-Apasionado por el desarrollo de software, web y videojuegos.
+
+---
+
+## 🧭 Sobre mí
+Soy desarrollador y director creativo con formación en ingeniería de software (42 Málaga) y experiencia liderando el desarrollo de un videojuego profesional en Unity.  
+Combino el enfoque técnico (C#, arquitectura limpia, Node.js) con la dirección de producto, diseño narrativo y coordinación de equipos multidisciplinares.
 
 ---
 
@@ -9,13 +16,15 @@ Apasionado por el desarrollo de software, web y videojuegos.
 - **Frameworks:** Unity, Express
 - **Paradigmas:** OOP, SOLID, Clean Architecture
 - **Herramientas:** Git, Linux, VS Code, Visual Studio
+- **Competencias adicionales:** Game Design, Producción, Dirección Creativa  
 
 ---
 
 ## 🚀 Proyectos destacados
-### 🎮 [Linnæus Project]
-Juego en desarrollo con C# y Unity.
-Implementa arquitectura modular y lógica de dominio aplicada a mecánicas de gameplay.
+### 🎮 [Linneus Project - ficha pública](https://github.com/JordiDevv/LinneusProject_overview)
+Cofundador y director de un videojuego profesional desarrollado en Unity.  
+Responsable de dirección creativa, producción y sistemas técnicos en C#.  
+*(Código privado por confidencialidad — proyecto en incubadora profesional).*
 
 ### ⚙️ [API REST con Node.js y Express](https://github.com/JordiDevv/Web-Eleccion-Unmatched/tree/main)
 Mini backend con endpoints REST, validación de datos y estructura en capas.
