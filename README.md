@@ -17,10 +17,10 @@ Apasionado por el desarrollo de software, web y videojuegos.
 Juego en desarrollo con C# y Unity.
 Implementa arquitectura modular y lógica de dominio aplicada a mecánicas de gameplay.
 
-### ⚙️ [API REST con Node.js y Express](enlace)
+### ⚙️ [API REST con Node.js y Express](https://github.com/JordiDevv/Web-Eleccion-Unmatched/tree/main)
 Mini backend con endpoints REST, validación de datos y estructura en capas.
 
-### 💡 [minishell – Proyecto de 42](enlace)
+### 💡 [minishell – Proyecto de 42](https://github.com/JordiDevv/minishell)
 Réplica fiel de una pequeña shell de bash, desarrollado desde cero como parte del cursus 42.
 
 ---
