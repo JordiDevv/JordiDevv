@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jorge Sanz
+🎯 Estudiante en 42 Málaga | Desarrollador C# / C++ / Node.js  
+Apasionado por el desarrollo de software, web y videojuegos.
 
-<!--
-**JordiDevv/JordiDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Stack principal
+- **Lenguajes:** C, C++, C#, JavaScript (Node.js)
+- **Frameworks:** Unity, Express
+- **Paradigmas:** OOP, SOLID, Clean Architecture
+- **Herramientas:** Git, Linux, VS Code, Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos destacados
+### 🎮 [Linnæus Project]
+Juego en desarrollo con C# y Unity.
+Implementa arquitectura modular y lógica de dominio aplicada a mecánicas de gameplay.
+
+### ⚙️ [API REST con Node.js y Express](enlace)
+Mini backend con endpoints REST, validación de datos y estructura en capas.
+
+### 💡 [minishell – Proyecto de 42](enlace)
+Réplica fiel de una pequeña shell de bash, desarrollado desde cero como parte del cursus 42.
+
+---
+
+## 📫 Contacto
+[LinkedIn](tu_linkedin) • [Email](mailto:tu_email)
