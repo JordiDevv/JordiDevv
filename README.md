@@ -26,4 +26,4 @@ Réplica fiel de una pequeña shell de bash, desarrollado desde cero como parte 
 ---
 
 ## 📫 Contacto
-[LinkedIn](tu_linkedin) • [Email](mailto:tu_email)
+[LinkedIn](https://www.linkedin.com/in/jordidevv/) • [Email](mailto:jordidevv@gmail.com)
