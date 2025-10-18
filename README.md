@@ -44,5 +44,7 @@ Réplica fiel de una pequeña shell de bash, desarrollado desde cero como parte 
 
 ---
 
+[![jsanz-bo's 42 stats](https://badge.mediaplus.ma/binary/jsanz-bo)](https://github.com/oakoudad/badge42)
+
 ## 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/jordidevv/) • [Email](mailto:jordidevv@gmail.com)
