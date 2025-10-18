@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Jorge Sanz
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00FF00&background=00000000&width=500&lines=JordiDevv;Game+Dev;Full-stack+Developer)  
 🎮 Cofundador y Director del estudio [Fantory Games]  
 🎯 Estudiante en 42 Málaga | Desarrollador C# / C++ / Node.js  
 
