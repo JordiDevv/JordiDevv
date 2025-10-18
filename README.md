@@ -9,7 +9,8 @@
 
 ## 🧭 Sobre mí
 Soy desarrollador y director creativo con formación en ingeniería de software (42 Málaga) y experiencia liderando el desarrollo de un videojuego profesional en Unity.  
-Combino el enfoque técnico (C#, arquitectura limpia, Node.js) con la dirección de producto, diseño narrativo y coordinación de equipos multidisciplinares.
+Combino el enfoque técnico (C#, arquitectura limpia, Node.js) con la dirección de producto, diseño narrativo y coordinación de equipos multidisciplinares.  
+Acostumbrado a trabajar con metodologías Agile y tableros Kanban.  
 
 ---
 
@@ -29,6 +30,8 @@ Combino el enfoque técnico (C#, arquitectura limpia, Node.js) con la dirección
 | **Tools / IDEs**                 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)                          | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 8/10 |
 |                                  | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 9/10 |
 |                                  | ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge\&logo=vim\&logoColor=white)                          | 🟩🟩🟩🟩🟩🟩🟨🟨🟥🟥 6/10 |
+|                                  | ![Makefile](https://img.shields.io/badge/Makefile-4479A1?style=for-the-badge\&logo=gnu\&logoColor=white)                | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 8/10 |
+|                                  | ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white)                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 9/10 |
 
 ---
 
