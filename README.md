@@ -36,10 +36,9 @@ Acostumbrado a trabajar con metodologías Agile y tableros Kanban.
 ---
 
 ## 🚀 Proyectos destacados
-### 🎮 [Linneus Project - ficha pública](https://github.com/JordiDevv/LinneusProject_overview)
+### 🎮 [Linneus Project - Assets del primer prototipo](https://github.com/JordiDevv/LinneusProject_overview)
 Cofundador y director de un videojuego profesional desarrollado en Unity.  
 Responsable de dirección creativa, producción y sistemas técnicos en C#.  
-*(Código privado por confidencialidad — proyecto en incubadora profesional).*
 
 ### ⚙️ [API REST con Node.js y Express](https://github.com/JordiDevv/Web-Eleccion-Unmatched/tree/main)
 Mini backend con endpoints REST, validación de datos y estructura en capas.
