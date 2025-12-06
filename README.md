@@ -18,7 +18,7 @@ Acostumbrado a trabajar con metodologías Agile y tableros Kanban.
 | Categoría                        | Tecnología                                                                                                              | Nivel                     |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | **Backend / Systems / Game Dev** | ![C](https://img.shields.io/badge/C-555555?style=for-the-badge\&logo=c\&logoColor=white)                                | 🟩🟩🟩🟩🟩🟩🟨🟨🟥🟥 6/10 |
-|                                  | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)                  | 🟩🟩🟩🟨🟨🟥🟥🟥🟥🟥 3/10 |
+|                                  | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)                  | 🟩🟩🟩🟩🟨🟨🟥🟥🟥🟥 4/10 |
 |                                  | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)                      | 🟩🟩🟩🟩🟩🟩🟩🟨🟨🟥 7/10 |
 |                                  | ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge\&logo=unity\&logoColor=white)                    | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 8/10 |
 |                                  | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)              | 🟩🟩🟩🟩🟩🟨🟨🟥🟥🟥 5/10 |
