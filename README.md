@@ -50,5 +50,8 @@ Réplica fiel de una pequeña shell de bash, desarrollado desde cero como parte 
 
 [![jsanz-bo's 42 stats](https://badge.mediaplus.ma/binary/jsanz-bo)](https://github.com/oakoudad/badge42)
 
+![JordiDevv-space-shooter](https://github.com/user-attachments/assets/be1a8ccc-b3ea-4aa3-b2d0-a8bd18cb791b)
+
+
 ## 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/jordidevv/) • [Email](mailto:jordidevv@gmail.com)
