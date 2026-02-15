@@ -2,15 +2,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00FF00&background=00000000&width=500&lines=JordiDevv;Game+Dev;Full-stack+Developer)  
 ![Profile Views](https://komarev.com/ghpvc/?username=JordiDevv&color=blue)
 
-🎮 Cofundador y Director del estudio [Fantory Games]  
-🎯 Estudiante en 42 Málaga | Desarrollador C# / C++ / Node.js  
+🚀 Dirección Creativa, Diseño Narrativo y Game Design | 💻 Desarrollo de Software Full-Stack y Entornos Interactivos | 🎓 Estudiante en 42 Málaga
 
 ---
 
 ## 🧭 Sobre mí
-Soy desarrollador y director creativo con formación en ingeniería de software (42 Málaga) y experiencia liderando el desarrollo de un videojuego profesional en Unity.  
-Combino el enfoque técnico (C#, arquitectura limpia, Node.js) con la dirección de producto, diseño narrativo y coordinación de equipos multidisciplinares.  
-Acostumbrado a trabajar con metodologías Agile y tableros Kanban.  
+Trabajo en la intersección entre producto, mercado y creatividad. Combino una sólida visión estratégica —adquirida a través de mi experiencia en incubadoras de impulso al emprendimiento— con una fuerte vocación por la dirección creativa y la coordinación de equipos multidisciplinares.  
+Además, cuento con un perfil tecnológico impulsado por la curiosidad por entender cómo funcionan las herramientas que utilizamos y por el disfrute de resolver problemas y procesos lógicos.
 
 ---
 
