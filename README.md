@@ -13,23 +13,35 @@ Además, cuento con un perfil tecnológico impulsado por la curiosidad por enten
 ---
 
 ## 💻 Stack principal  
-| Categoría                        | Tecnología                                                                                                              | Nivel                     |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| **Backend / Systems / Game Dev** | ![C](https://img.shields.io/badge/C-555555?style=for-the-badge\&logo=c\&logoColor=white)                                | 🟩🟩🟩🟩🟩🟩🟩🟨🟨🟥 7/10 |
-|                                  | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)                  | 🟩🟩🟩🟩🟩🟨🟨🟥🟥🟥 5/10 |
-|                                  | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)                      | 🟩🟩🟩🟩🟩🟩🟩🟨🟨🟥 7/10 |
-|                                  | ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge\&logo=unity\&logoColor=white)                    | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 8/10 |
-|                                  | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)              | 🟩🟩🟩🟩🟨🟨🟥🟥🟥🟥 4/10 |
-|                                  | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)              | 🟩🟩🟩🟩🟨🟨🟥🟥🟥🟥 4/10 |
-| **Frontend**                     | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)     | 🟩🟩🟩🟩🟩🟨🟨🟥🟥🟥 5/10 |
-|                                  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)                    | 🟩🟩🟩🟩🟩🟩🟨🟨🟥🟥 6/10 |
-|                                  | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)                       | 🟩🟩🟩🟨🟨🟥🟥🟥🟥🟥 3/10 |
-| **Bases de datos**               | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)                 | 🟩🟩🟩🟩🟩🟨🟨🟥🟥🟥 5/10 |
-| **Tools / IDEs**                 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)                          | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 8/10 |
-|                                  | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 9/10 |
-|                                  | ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge\&logo=vim\&logoColor=white)                          | 🟩🟩🟩🟩🟩🟩🟨🟨🟥🟥 6/10 |
-|                                  | ![Makefile](https://img.shields.io/badge/Makefile-4479A1?style=for-the-badge\&logo=gnu\&logoColor=white)                | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 8/10 |
-|                                  | ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white)                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 9/10 |
+
+| **Backend / Systems / Game Dev** |  
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge\&logo=c\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge\&logo=unity\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+| **Frontend** |  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+| **Bases de datos** |  
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+| **Tools / IDEs** |  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge\&logo=vim\&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-4479A1?style=for-the-badge\&logo=gnu\&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white)
 
 ---
 
@@ -52,4 +64,5 @@ Réplica fiel de una pequeña shell de bash, desarrollado desde cero como parte 
 
 
 ## 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/jordidevv/) • [Email](mailto:jordidevv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordidevv/) • 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordidevv@gmail.com)
